@@ -37,3 +37,5 @@ A simple WiFi signal monitoring tool achieved by ESP8266
 #### c.Files stored in SPIFFS
 
 <img src="picture\fileContent.png" title="" alt="" data-align="center">
+
+## 5.If there are bugs or suggestions, put forward them and I may update.
