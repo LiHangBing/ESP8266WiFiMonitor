@@ -37,3 +37,5 @@ ESP8266实现一个简单的wifi信号监测工具(A simple WiFi signal monitori
 #### c.可导出的文件内容
 
 <img src="picture\fileContent.png" title="" alt="" data-align="center">
+
+## 5.有bug或者建议可提出，随缘更新
